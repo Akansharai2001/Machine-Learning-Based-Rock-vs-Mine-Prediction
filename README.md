@@ -8,3 +8,8 @@ Developing a Machine Learning Model for binary classification to predict whether
 - Trained a logistic regression model using `sklearn`, achieving high accuracy on both training and test datasets.
 - Visualized the model’s performance using accuracy scores.
 - Demonstrated effectiveness in distinguishing between rock and mine instances.
+
+## 
+![3](https://github.com/user-attachments/assets/0e5a23b3-dfdb-47ff-98e8-178a28b9f62b)
+![3](https://github.com/user-attachments/assets/90fb8a54-7b10-4451-8a12-19cb31655fc1)
+![image](https://github.com/user-attachments/assets/2e753f79-26f9-4d81-b8db-e277d8779a5f)
